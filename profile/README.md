@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [蓝桥杯国赛 14 天夺奖冲刺营 [训练营]](https://www.lanqiao.cn/courses/5194/)
 - [算法面试通关训练营 [楼+]](https://www.lanqiao.cn/courses/8321/)
 - [Linux 操作系统原理剖析 [训练营]](https://www.lanqiao.cn/courses/4042/)
 - [DevOps 运维工具配置实战 [训练营]](https://www.lanqiao.cn/courses/7672/)
 - [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 C 组） [训练营]](https://www.lanqiao.cn/courses/7553/)
-- [第十二届蓝桥杯国赛真题讲解（C&amp;C++ 大学 B 组） [训练营]](https://www.lanqiao.cn/courses/7552/)
 <!-- LATEST:END -->
 
 ### 最热课程
