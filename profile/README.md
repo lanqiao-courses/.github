@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
+- [Element-UI：详解与实战 [训练营]](https://www.lanqiao.cn/courses/3815/)
 - [Node.js 实现网站信息爬虫 [限时免费]](https://www.lanqiao.cn/courses/1290/)
 - [C++ 实现消息异步订阅和发布 [限时免费]](https://www.lanqiao.cn/courses/664/)
 - [C++ 实现常见加密算法 [限时免费]](https://www.lanqiao.cn/courses/654/)
 - [C++ 实现简易 Docker 容器 [限时免费]](https://www.lanqiao.cn/courses/608/)
-- [C++ 实现监控和运动检测 [限时免费]](https://www.lanqiao.cn/courses/671/)
 <!-- LATEST:END -->
 
 ### 最热课程
