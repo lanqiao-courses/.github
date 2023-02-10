@@ -5,7 +5,7 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [OpenStack Identity 概念与应用 [会员课]](https://www.lanqiao.cn/courses/911/)
+- [前端工程师面试通关营 [楼+]](https://www.lanqiao.cn/courses/9328/)
 - [Linux 安装 Git 服务器 [限时免费]](https://www.lanqiao.cn/courses/616/)
 - [Python 实现 Excel 数据绘图 [限时免费]](https://www.lanqiao.cn/courses/791/)
 - [Linux 搭建及配置 DNS 服务器 [限时免费]](https://www.lanqiao.cn/courses/601/)
