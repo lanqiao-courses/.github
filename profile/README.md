@@ -5,11 +5,11 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [蓝桥 IT 人才培养项目：大数据开发 [楼+]](https://www.lanqiao.cn/courses/9119/)
-- [Spark 大数据动手实验 [训练营]](https://www.lanqiao.cn/courses/456/)
-- [11 个实验快速入门 Flink [训练营]](https://www.lanqiao.cn/courses/3423/)
-- [第十四届蓝桥杯省赛冲刺营 [训练营]](https://www.lanqiao.cn/courses/17812/)
-- [Electron 学习之旅 [免费课]](https://www.lanqiao.cn/courses/11452/)
+- [操作系统原理与实践 [免费课]](https://www.lanqiao.cn/courses/115/)
+- [Linux 基础入门 [免费课]](https://www.lanqiao.cn/courses/1/)
+- [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
+- [蓝桥杯 11～13 届省赛真题解析（C&amp;C++ 大学 A 组） [训练营]](https://www.lanqiao.cn/courses/11006/)
+- [Linux 系统监控实战 [限时免费]](https://www.lanqiao.cn/courses/92/)
 <!-- LATEST:END -->
 
 ### 最热课程
