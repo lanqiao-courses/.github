@@ -6,10 +6,10 @@
 
 <!-- LATEST:START -->
 - [Vue + Spring Boot 全栈商城项目开发 [训练营]](https://www.lanqiao.cn/courses/2573/)
-- [SpringBoot + Thymeleaf 搭建个人博客 [训练营]](https://www.lanqiao.cn/courses/1367/)
-- [Vue.js 3 + Node.js 实现线上聊天室 [训练营]](https://www.lanqiao.cn/courses/3574/)
+- [Spring Boot 企业级商城开发实战 [训练营]](https://www.lanqiao.cn/courses/1537/)
 - [Vue.js 和 Egg.js 开发企业级健康管理项目 [训练营]](https://www.lanqiao.cn/courses/2741/)
-- [暑期特训营：前端项目实训【蓝桥云听】 [训练营]](https://www.lanqiao.cn/courses/20938/)
+- [暑期特训营：算法基础 [训练营]](https://www.lanqiao.cn/courses/20932/)
+- [蓝桥杯 C&amp;C++ 组国赛特训营（赛前冲刺） [训练营]](https://www.lanqiao.cn/courses/20046/)
 <!-- LATEST:END -->
 
 ### 最热课程
