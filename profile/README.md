@@ -5,7 +5,7 @@
 ### 最新课程
 
 <!-- LATEST:START -->
-- [AWS Lambda 开发企业微信消息机器人 [会员课]](https://www.lanqiao.cn/courses/2868/)
+- [楼+ 之通关数学建模竞赛 [训练营]](https://www.lanqiao.cn/courses/3201/)
 - [新网页三剑客进阶 [训练营]](https://www.lanqiao.cn/courses/18776/)
 - [新手入门指南之玩转蓝桥云课 [免费课]](https://www.lanqiao.cn/courses/63/)
 - [楼+数据分析与挖掘实训（全新升级） [训练营]](https://www.lanqiao.cn/courses/3604/)
